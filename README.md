@@ -34,10 +34,6 @@ Simple-Calculator/
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/simple-calculator.git
-```
-
 2. Open the project folder.
 
 3. Double-click `index.html` or open it in any modern web browser.
