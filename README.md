@@ -39,6 +39,7 @@ Simple-Calculator/
 3. Double-click `index.html` or open it in any modern web browser.
 
 ## 📷 Output
+<img width="523" height="402" alt="image" src="https://github.com/user-attachments/assets/c5ca8923-020b-47e2-a231-df6066dc18b3" />
 
 
 ## 💡 How It Works
