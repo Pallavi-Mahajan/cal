@@ -60,7 +60,8 @@ Simple-Calculator/
 
 ## 👩‍💻 Author
 
-**Pallavi Mahajan**
+  **Pallavi Mahajan**
+
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
